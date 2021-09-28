@@ -1,3 +1,7 @@
 body{
     color: white;
 }
+
+#hover:hover{
+    opacity: 30;
+}
